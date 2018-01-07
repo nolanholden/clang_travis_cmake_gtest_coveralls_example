@@ -4,5 +4,7 @@
 
 TEST(test, empty)
 {
+  int i = 0;
+  i++;
   Project::Foo();
 }
